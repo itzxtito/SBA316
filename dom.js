@@ -13,7 +13,7 @@ addTaskButton.addEventListener("click", () => {
     alert("Please enter a task!");
     return;
   }
-
+ 
   // Create a DocumentFragment
   const fragment = document.createDocumentFragment();
 
