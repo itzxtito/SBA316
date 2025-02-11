@@ -2,10 +2,10 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #f4f4f9;
+    background-color: gray;
   }
   header {
-    background-color: #6c63ff;
+    background-color: dodgerblue;
     color: white;
     padding: 1rem;
     text-align: center;
@@ -30,7 +30,7 @@ body {
   }
   .task-input button {
     padding: 0.5rem 1rem;
-    background-color: #6c63ff;
+    background-color: dodgerblue;
     color: white;
     border: none;
     border-radius: 4px;
